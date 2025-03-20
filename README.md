@@ -8,11 +8,11 @@ The contents of a readme file are written using [Markdown](https://www.markdowng
 
 2. Enter your First Name: veznu 
 
-4. Enter your favourite animal: Panda 
+4. Enter your favourite animal: dog 
 
-5. Click the green `Commit Changes` button.
+6. Click the green `Commit Changes` button.
 
-6. Done!
+7. Done!
 
 ### What just happened?
 You made changes to a file and committed (saved) them to the repository. Github tracks the state of your entire repository after each commit so you can go back and revisit any point in your commit history.
